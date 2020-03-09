@@ -1,0 +1,4 @@
+{int a; int b; a := 317; b := 0;
+     {bool c; c:=true; while(c) {b++; c:= a >= b*b}};
+     b := b-1
+    }
